@@ -4,6 +4,12 @@ Chapel Mode for Vim
 Chapel support for Vim has been designed for use with Vim versions 5.08 or
 newer.
 
+Note: This repository was extracted from `chapel/highlight/vim
+<https://github.com/chapel-lang/chapel/tree/main/highlight/vim>`_ using
+`filter-repo <https://github.com/newren/git-filter-repo>`_ to streamline the
+plugin's installation.
+  git filter-repo --subdirectory-filter highlight/vim
+**Issues and pull request should be opened on the original repository.**
 
 File Descriptions:
 ==================
